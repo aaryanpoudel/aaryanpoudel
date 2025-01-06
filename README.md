@@ -1,7 +1,7 @@
 <h1 align="center">Hello World 👋, I'm Aaryan</h1>
 <h2 align="center">Web Dev and a Linux Geek</h2>
 
-<p>Visit: <a href="https://aaryanpoudel.com.np" target="_blank" rel="noreferrer"> aaryanpoudel.com.np </a> </p>
+<p align="center">Visit: <a href="https://aaryanpoudel.com.np" target="_blank" rel="noreferrer"> aaryanpoudel.com.np </a> </p>
 
 <h3 align="center">Language and Tools:</h3>
 <p align="center"> 
