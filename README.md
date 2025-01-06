@@ -1,8 +1,9 @@
 <h1 align="center">Hello World 👋, I'm Aaryan</h1>
 <h2 align="center">Web Dev and a Linux Geek</h2>
-<h3 align="center">Language and Tools:</h3>
 
 <p>Visit: <a href="https://aaryanpoudel.com.np" target="_blank" rel="noreferrer"> aaryanpoudel.com.np </a> </p>
+
+<h3 align="center">Language and Tools:</h3>
 <p align="center"> 
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="25" height="25"/> </a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="25" height="25"/> </a>
